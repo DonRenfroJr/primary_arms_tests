@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "FGB8WCjbLgDRhw+4Odj0TQ==\n", 
+    "height": 19, 
+    "hier_level": 0, 
+    "human_hash": "button_X864_Y666_W182_H19", 
+    "human_readable": "button_864_666_182_19_button_00000000000000008310a100fdfffdfffdfffdfffdfeffff14d1ffffffff0000_8998f179d3796a3c4ff3c598abce7811", 
+    "image_path": "ZGE3M2ExY2MzMDRmNWIyYmVhMTc1YzNkZjEyNTAyZDg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ltkpopup-close", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "ltkpopup-close", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Noto Sans\", Arial, Helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "No thanks, I'll pay full price.", 
+            "type": "", 
+            "value": "", 
+            "width": 182, 
+            "x": 864, 
+            "xPercent": 45.22496727748691, 
+            "y": 666, 
+            "yPercent": 18.96011396011396
+        }, 
+        "location": {
+            "x": 864, 
+            "y": 666
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 182
+        }, 
+        "tag_name": "button", 
+        "text": "No thanks, I'll pay full price."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c73e8de9b0b4dc1739739623e1744505", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "No thanks, I'll pay full price.", 
+    "transformed": true, 
+    "width": 182, 
+    "x": 864, 
+    "y": 666
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "TiX+KUWt2b08ipwsMDlwqQ==\n", 
+    "height": 29, 
+    "hier_level": 0, 
+    "human_hash": "a_X1884_Y778_W20_H29", 
+    "human_readable": "a_1884_778_20_29_a_1ff01ff0033003301c101fc007f007f01f8018000fe01c70183078307ff007c0_e2c071f0eb807b08c405cf69047e3fe7", 
+    "image_path": "ZDVkNmM0MmU2Yjk0ZGJjMjc5OTU5ZmMyYjY1YjgzZDI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-hashtag": "#/faq", 
+                "data-touchpoint": "home", 
+                "href": "/faq"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "FAQ", 
+            "type": "", 
+            "value": "", 
+            "width": 20, 
+            "x": 1884, 
+            "xPercent": 98.64119764397905, 
+            "y": 778, 
+            "yPercent": 22.166577635327638
+        }, 
+        "location": {
+            "x": 1884, 
+            "y": 778
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 20
+        }, 
+        "tag_name": "a", 
+        "text": "FAQ"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "FAQ", 
+    "transformed": true, 
+    "width": 20, 
+    "x": 1884, 
+    "y": 778
+}

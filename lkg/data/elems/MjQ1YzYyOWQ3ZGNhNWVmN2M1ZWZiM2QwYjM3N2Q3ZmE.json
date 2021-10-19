@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "McMX9OfeHFQsnx4phItRrw==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "h1_X970_Y348_W555_H24", 
+    "human_readable": "h1_970_348_555_24_h1_ffffffffffffd19cd1ae00010001000100010001000100000000ffffffffffff_922e5612376a4a32bf7300c606c07566", 
+    "image_path": "MjQ1YzYyOWQ3ZGNhNWVmN2M1ZWZiM2QwYjM3N2Q3ZmE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-details-full-content-header-title", 
+                "itemprop": "name"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "product-details-full-content-header-title", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 20, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Hornady Black 300 AAC Blackout 208 Gr A-Max - Box of 20", 
+            "type": "", 
+            "value": "", 
+            "width": 555, 
+            "x": 970, 
+            "xPercent": 50.78534031413613, 
+            "y": 348, 
+            "yPercent": 9.101020675215912
+        }, 
+        "location": {
+            "x": 970, 
+            "y": 348
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 555
+        }, 
+        "tag_name": "h1", 
+        "text": "Hornady Black 300 AAC Blackout 208 Gr A-Max - Box of 20"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a8d80c8ac646a6cf537df50c71f9035b", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Hornady Black 300 AAC Blackout 208 Gr A-Max - Box of 20", 
+    "transformed": true, 
+    "width": 555, 
+    "x": 970, 
+    "y": 348
+}

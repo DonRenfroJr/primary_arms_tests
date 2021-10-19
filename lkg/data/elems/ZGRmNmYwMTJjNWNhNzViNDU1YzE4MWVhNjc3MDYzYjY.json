@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "99Dt4/Pu8RlageBgqr9D4w==\n", 
+    "height": 191, 
+    "hier_level": 0, 
+    "human_hash": "img_X1334_Y593_W191_H191", 
+    "human_readable": "img_1334_593_191_191_img_fffffc0ff007e007e003e007e007e007f003f003f003f003f003e007cc3fffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZGRmNmYwMTJjNWNhNzViNDU1YzE4MWVhNjc3MDYzYjY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Bulldog Cases 2 Day Ranger Backpack in Tan", 
+                "class": "facets-item-cell-grid-image", 
+                "src": "https://images.primaryarms.com/f00000000191638/www.primaryarms.com/SSP Applications/NetSuite Inc. - SCA Mont Blanc/Development/img/BDT411T_00.jpg?resizeid=3&resizeh=280&resizew=320"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "facets-item-cell-grid-image", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 191, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 191, 
+            "x": 1334, 
+            "xPercent": 69.82984293193716, 
+            "y": 593, 
+            "yPercent": 12.507908055672711
+        }, 
+        "location": {
+            "x": 1334, 
+            "y": 593
+        }, 
+        "size": {
+            "height": 191, 
+            "width": 191
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "07f88f60ba04d703d858ba2b5ddd332a", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 191, 
+    "x": 1334, 
+    "y": 593
+}

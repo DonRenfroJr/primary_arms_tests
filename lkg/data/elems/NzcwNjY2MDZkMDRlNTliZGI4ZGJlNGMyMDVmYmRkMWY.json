@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ZgENMJyX3wKRmmuy8i7v+g==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1299_Y197_W82_H48", 
+    "human_readable": "a_1299_197_82_48_a_0000000000000000000010003ba42ffe2ffc3ffc150e000c0000000000000000_60807e9dca5e5c9c5fe628f15b740208", 
+    "image_path": "NzcwNjY2MDZkMDRlNTliZGI4ZGJlNGMyMDVmYmRkMWY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/MCategories+Clothing--AND--Accessories", 
+                "data-touchpoint": "home", 
+                "href": "/MCategories+Clothing--AND--Accessories", 
+                "id": "Clothing-Accessories"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "header-menu-level1-anchor", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.05, 
+            "height": 48, 
+            "identifier": "Clothing-Accessories", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Clothing", 
+            "type": "", 
+            "value": "", 
+            "width": 82, 
+            "x": 1299, 
+            "xPercent": 68.03583115183245, 
+            "y": 197, 
+            "yPercent": 5.605413105413105
+        }, 
+        "location": {
+            "x": 1299, 
+            "y": 197
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 82
+        }, 
+        "tag_name": "a", 
+        "text": "Clothing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Clothing", 
+    "transformed": true, 
+    "width": 82, 
+    "x": 1299, 
+    "y": 197
+}

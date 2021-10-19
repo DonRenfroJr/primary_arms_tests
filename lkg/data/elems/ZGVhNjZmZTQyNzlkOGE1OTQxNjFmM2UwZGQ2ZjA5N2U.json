@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "pysRHSfCofgq0GCuqJytsw==\n", 
+    "height": 45, 
+    "hier_level": 0, 
+    "human_hash": "a_X551_Y314_W394_H45", 
+    "human_readable": "a_551_314_394_45_a_8001800180018001800100000fe00ff00ff00ff003e080018001800180018001_ee967d28f9d62e21eb4a6b837f92a3e3", 
+    "image_path": "ZGVhNjZmZTQyNzlkOGE1OTQxNjFmM2UwZGQ2ZjA5N2U.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cart-confirmation-modal-view-cart-button", 
+                "href": "/cart"
+            }, 
+            "background-color": "rgb(45, 110, 209)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "cart-confirmation-modal-view-cart-button", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 15, 
+            "height": 45, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "View Cart & Checkout", 
+            "type": "", 
+            "value": "", 
+            "width": 394, 
+            "x": 551, 
+            "xPercent": 28.697916666666668, 
+            "y": 314, 
+            "yPercent": 10.449251247920133
+        }, 
+        "location": {
+            "x": 551, 
+            "y": 314
+        }, 
+        "size": {
+            "height": 45, 
+            "width": 394
+        }, 
+        "tag_name": "a", 
+        "text": "View Cart & Checkout"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "984328d6f24fdde58fee2c88e58056f6", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "View Cart & Checkout", 
+    "transformed": true, 
+    "width": 394, 
+    "x": 551, 
+    "y": 314
+}

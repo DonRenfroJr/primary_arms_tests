@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "eveRwDOB1O/N1EDQTSx/UA==\n", 
+    "height": 55, 
+    "hier_level": 0, 
+    "human_hash": "button_X794_Y857_W322_H55", 
+    "human_readable": "button_794_857_322_55_button_80018001800180018001000017301ff81ff81ff8000080018001800180018001_b07f833272d6b454ba8f1a1fa603275b", 
+    "image_path": "ZTcwMTAzZmE1ZDFmMWIwNGQwMThmZDcwMGRhZGNlM2E.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "email-when-instock-submit", 
+                "type": "submit"
+            }, 
+            "background-color": "rgb(38, 115, 183)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "email-when-instock-submit", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 15, 
+            "height": 55, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Email Me When in Stock", 
+            "type": "submit", 
+            "value": "", 
+            "width": 322, 
+            "x": 794, 
+            "xPercent": 41.57068062827225, 
+            "y": 857, 
+            "yPercent": 39.044711976320585
+        }, 
+        "location": {
+            "x": 794, 
+            "y": 857
+        }, 
+        "size": {
+            "height": 55, 
+            "width": 322
+        }, 
+        "tag_name": "button", 
+        "text": "Email Me When in Stock"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "646dca54c8553ed9a711118f7aaf1b86", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Email Me When in Stock", 
+    "transformed": true, 
+    "width": 322, 
+    "x": 794, 
+    "y": 857
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2QdqbavvwzwiqDp1PoCdWw==\n", 
+    "height": 476, 
+    "hier_level": 0, 
+    "human_hash": "img_X0_Y245_W1433_H476", 
+    "human_readable": "img_0_245_1433_476_img_000000000080e706e70fef86879f8f9fef9f6f9e05bf0f970f9be000f3b00380_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NjY5ODMzM2MwMjNhMDdjYjMzZDU2MWY1MmE5ZjdiMmY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Shipping Info", 
+                "id": "banner_img_0", 
+                "src": "https://images.primaryarms.com/f00000000191638/www.primaryarms.com/core/media/media.nl?id=15181165&c=3901023&h=WxX4x88LWnvArKFkfq7CvZ18qdGCygpbeMBLkYGJqDNpatum"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(36, 36, 36)", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 476, 
+            "identifier": "banner_img_0", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 1433, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 245, 
+            "yPercent": 6.972934472934473
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 245
+        }, 
+        "size": {
+            "height": 476, 
+            "width": 1433
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1433, 
+    "x": 0, 
+    "y": 245
+}

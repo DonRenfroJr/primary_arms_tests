@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "B13tdbTGk4uI2qb93gpiSA==\n", 
+    "height": 55, 
+    "hier_level": 0, 
+    "human_hash": "a_X970_Y571_W278_H55", 
+    "human_readable": "a_970_571_278_55_a_c0038001800180018001000037907ffc7ffc7ffc00008001800180018001c003_f39effc4bacc0c50e6cfc15c23bd31d0", 
+    "image_path": "YTM1OGQxMDg4N2VmNTk1NTQ0YzIwZDVjZGUzZWM5Zjg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-list-control-button-email-backinstock item-details-back-in-stock-button", 
+                "data-hashtag": "#/email-me-when-instock/13900?shopping=hornady-black-300-aac-blackout-208-gr-a-max-h80891", 
+                "data-touchpoint": "home", 
+                "href": "/email-me-when-instock/13900?shopping=hornady-black-300-aac-blackout-208-gr-a-max-h80891"
+            }, 
+            "background-color": "rgb(38, 115, 183)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "product-list-control-button-email-backinstock item-details-back-in-stock-button", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 15, 
+            "height": 55, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Email Me When In Stock", 
+            "type": "", 
+            "value": "", 
+            "width": 278, 
+            "x": 970, 
+            "xPercent": 50.78534031413613, 
+            "y": 571, 
+            "yPercent": 14.937189217482336
+        }, 
+        "location": {
+            "x": 970, 
+            "y": 571
+        }, 
+        "size": {
+            "height": 55, 
+            "width": 278
+        }, 
+        "tag_name": "a", 
+        "text": "Email Me When In Stock"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a8d80c8ac646a6cf537df50c71f9035b", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Email Me When In Stock", 
+    "transformed": true, 
+    "width": 278, 
+    "x": 970, 
+    "y": 571
+}

@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "KuH4eDYAaiaqxtluQBFh3Q==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "button_X1000_Y444_W241_H56", 
+    "human_readable": "button_1000_444_241_56_button_c0038001800180018001000030303ffc3ffc3ffc00008001800180018001c003_737650075131c890f7263f57280f1889", 
+    "image_path": "NmVhNTMxOTkzNjliOThjZmVhYWY4ZmM3NWVkNWVjNzg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "login-register-checkout-as-guest-button-show", 
+                "data-target": "#guest-show-view,#guest-view", 
+                "data-toggle": "collapse", 
+                "href": "#"
+            }, 
+            "background-color": "rgb(36, 36, 36)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "login-register-checkout-as-guest-button-show", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.005, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Checkout as a Guest", 
+            "type": "", 
+            "value": "", 
+            "width": 241, 
+            "x": 1000, 
+            "xPercent": 52.35602094240838, 
+            "y": 444, 
+            "yPercent": 28.442304612427932
+        }, 
+        "location": {
+            "x": 1000, 
+            "y": 444
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 241
+        }, 
+        "tag_name": "button", 
+        "text": "Checkout as a Guest"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c855ba9dea7cfaa2a369b72c08ea7bda", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Checkout as a Guest", 
+    "transformed": true, 
+    "width": 241, 
+    "x": 1000, 
+    "y": 444
+}

@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "eCMyojo7WIONM3W3OZyaJQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X531_Y197_W86_H48", 
+    "human_readable": "a_531_197_86_48_a_00000000000000000000300030047ffc7ffc7ffe030400000000000000000000_e025cb999fad2b74b00a9d75a8047bf4", 
+    "image_path": "ZjI2OGRkMjg5M2QzNjRmZTUzOTM2ODNmYmIwMWRiYmI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/MCategories+Firearms", 
+                "data-touchpoint": "home", 
+                "href": "/MCategories+Firearms", 
+                "id": "Firearm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "header-menu-level1-anchor", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.05, 
+            "height": 48, 
+            "identifier": "Firearm", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Firearms", 
+            "type": "", 
+            "value": "", 
+            "width": 86, 
+            "x": 531, 
+            "xPercent": 27.787958115183248, 
+            "y": 197, 
+            "yPercent": 5.605413105413105
+        }, 
+        "location": {
+            "x": 531, 
+            "y": 197
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 86
+        }, 
+        "tag_name": "a", 
+        "text": "Firearms"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Firearms", 
+    "transformed": true, 
+    "width": 86, 
+    "x": 531, 
+    "y": 197
+}

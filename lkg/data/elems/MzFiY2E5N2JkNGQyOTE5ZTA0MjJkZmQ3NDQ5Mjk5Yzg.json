@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "KxJpBJoCPdXdAkldPEAlHA==\n", 
+    "height": 106, 
+    "hier_level": 0, 
+    "human_hash": "a_X956_Y726_W954_H106", 
+    "human_readable": "a_956_726_954_106_a_00fe00fe01ff01ff01ff01ff7dfe4dfe01fe01fe1dfe1dfe1dfe01fe01ff01ff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MzFiY2E5N2JkNGQyOTE5ZTA0MjJkZmQ3NDQ5Mjk5Yzg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/primary-arms-optics"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(36, 36, 36)", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 106, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 954, 
+            "x": 956, 
+            "xPercent": 50.05153795811519, 
+            "y": 726, 
+            "yPercent": 20.68643162393162
+        }, 
+        "location": {
+            "x": 956, 
+            "y": 726
+        }, 
+        "size": {
+            "height": 106, 
+            "width": 954
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 954, 
+    "x": 956, 
+    "y": 726
+}

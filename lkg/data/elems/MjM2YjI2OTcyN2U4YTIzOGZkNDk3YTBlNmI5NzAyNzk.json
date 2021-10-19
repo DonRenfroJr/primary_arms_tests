@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "YqJU5s5a/hv3hC2ktZT6QQ==\n", 
+    "height": 45, 
+    "hier_level": 0, 
+    "human_hash": "button_X965_Y314_W394_H45", 
+    "human_readable": "button_965_314_394_45_button_00007ffefffffffffffffffff97ff81ff81ff81fff9fffffffffffff7ffe0000_713309a57049ac3ec2c2c5d0ab7d55bf", 
+    "image_path": "MjM2YjI2OTcyN2U4YTIzOGZkNDk3YTBlNmI5NzAyNzk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cart-confirmation-modal-continue-shopping-button", 
+                "data-dismiss": "modal"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "button", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "cart-confirmation-modal-continue-shopping-button", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 15, 
+            "height": 45, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Continue Shopping", 
+            "type": "", 
+            "value": "", 
+            "width": 394, 
+            "x": 965, 
+            "xPercent": 50.260416666666664, 
+            "y": 314, 
+            "yPercent": 10.449251247920133
+        }, 
+        "location": {
+            "x": 965, 
+            "y": 314
+        }, 
+        "size": {
+            "height": 45, 
+            "width": 394
+        }, 
+        "tag_name": "button", 
+        "text": "Continue Shopping"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "984328d6f24fdde58fee2c88e58056f6", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Continue Shopping", 
+    "transformed": true, 
+    "width": 394, 
+    "x": 965, 
+    "y": 314
+}

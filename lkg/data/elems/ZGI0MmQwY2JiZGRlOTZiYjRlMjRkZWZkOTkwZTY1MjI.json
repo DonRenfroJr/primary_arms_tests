@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "rCfpPrFHn/9+RvWtPSrPgQ==\n", 
+    "height": 370, 
+    "hier_level": 0, 
+    "human_hash": "img_X385_Y348_W555_H370", 
+    "human_readable": "img_385_348_555_370_img_fffffffffffffffffffff00ff00ff00ff00ff00ff007ffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZGI0MmQwY2JiZGRlOTZiYjRlMjRkZWZkOTkwZTY1MjI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "", 
+                "class": "center-block", 
+                "data-loader": "false", 
+                "height": "220", 
+                "itemprop": "image", 
+                "src": "https://images.primaryarms.com/f00000000191638/www.primaryarms.com/SSP Applications/NetSuite Inc. - SCA Mont Blanc/Development/img/H80891_00.jpg?resizeid=2&resizeh=0&resizew=555", 
+                "width": "320"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "center-block", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 370, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 555, 
+            "x": 385, 
+            "xPercent": 20.157068062827225, 
+            "y": 348, 
+            "yPercent": 9.101020675215912
+        }, 
+        "location": {
+            "x": 385, 
+            "y": 348
+        }, 
+        "size": {
+            "height": 370, 
+            "width": 555
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a8d80c8ac646a6cf537df50c71f9035b", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 555, 
+    "x": 385, 
+    "y": 348
+}

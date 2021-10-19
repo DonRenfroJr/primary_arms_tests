@@ -1,0 +1,83 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ekYInQSYd+YD4LbXYuASag==\n", 
+    "height": 100, 
+    "hier_level": 0, 
+    "human_hash": "img_X0_Y831_W53_H100", 
+    "human_readable": "img_0_831_53_100_img_fffffffeff8ffd1ffc6ffeffffffcf7fc003ffff0000100a7ffe000000000000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YmQxZDJhM2ZjODQyM2YzZGFjYTg4ZGFlY2YwM2RlNDg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Norton Shopping Guarantee", 
+                "border": "0", 
+                "data-pin-no-hover": "true", 
+                "data-pin-nopin": "true", 
+                "id": "buysafeseal_1_a", 
+                "name": "buysafeseal_1_img", 
+                "oncontextmenu": "return false;", 
+                "src": "https://nsg.symantec.com/Web/Seal/si.aspx?s=957489991&p=11&t=a&TS=aede7&R=0&x=BLX", 
+                "style": "border: 0px; margin: 0px; padding: 0px; height: auto; min-height: 0px; max-height: none; width: auto; min-width: 0px; max-width: none; vertical-align: bottom; cursor: pointer;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 3, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 100, 
+            "identifier": "buysafeseal_1_a", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "buysafeseal_1_img", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 53, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 831, 
+            "yPercent": 23.675213675213673
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 831
+        }, 
+        "size": {
+            "height": 100, 
+            "width": 53
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b290afe87f8ead9a9e069aec50754af2", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 53, 
+    "x": 0, 
+    "y": 831
+}

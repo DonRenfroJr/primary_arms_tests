@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "cucynygyJ7btazrHRA+u5Q==\n", 
+    "height": 146, 
+    "hier_level": 0, 
+    "human_hash": "img_X818_Y291_W275_H146", 
+    "human_readable": "img_818_291_275_146_img_000034003ffc0000000000003ffc000020026dbe6ffe6dfe2da06f806f800000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MGU1MmRkYjhiNjhkMzljMGQwMjk4MTQ1NjkyOWZjMTY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Sign Up to Receive 12OFF", 
+                "class": "ltkpopup-logo", 
+                "src": "https://mediacdn.espssl.com/9223/Shared/Popup/2021/12OFF-Bnr-2021logo-275x146-min.png"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "ltkpopup-logo", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 146, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 275, 
+            "x": 818, 
+            "xPercent": 42.80104712041885, 
+            "y": 291, 
+            "yPercent": 8.276353276353277
+        }, 
+        "location": {
+            "x": 818, 
+            "y": 291
+        }, 
+        "size": {
+            "height": 146, 
+            "width": 275
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "13ba4e4e6c3efde7df57a628c4bdd8c9", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 275, 
+    "x": 818, 
+    "y": 291
+}

@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "RE9ppdnjyPHsfeM0DE+gog==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "a_X1720_Y81_W145_H36", 
+    "human_readable": "a_1720_81_145_36_a_ffffffffbfff9fffc7ffc5ffc40fc40fcc0fdc07c52fc7ffd7ffffffffffffff_c4a4b2af8f613e71a587a892bcd80a72", 
+    "image_path": "ZDg0YjM5MmJlZWUyOWY5NDIyYjBmODIxYWZlY2QzNDM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-mini-cart-menu-cart-link ", 
+                "data-hashtag": "#cart", 
+                "data-toggle": "dropdown", 
+                "data-touchpoint": "home", 
+                "data-type": "mini-cart", 
+                "href": "#", 
+                "title": "Cart"
+            }, 
+            "background-color": "rgb(255, 208, 114)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "header-mini-cart-menu-cart-link ", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13.95, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "0   0 items", 
+            "type": "", 
+            "value": "", 
+            "width": 145, 
+            "x": 1720, 
+            "xPercent": 90.0523560209424, 
+            "y": 81, 
+            "yPercent": 2.3183760683760686
+        }, 
+        "location": {
+            "x": 1720, 
+            "y": 81
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 145
+        }, 
+        "tag_name": "a", 
+        "text": "0   0 items"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "0   0 items", 
+    "transformed": true, 
+    "width": 145, 
+    "x": 1720, 
+    "y": 81
+}

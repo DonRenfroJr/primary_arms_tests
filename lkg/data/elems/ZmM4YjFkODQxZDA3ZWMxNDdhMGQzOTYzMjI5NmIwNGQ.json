@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "QJbhvuzDCLil6kWxAuDrWg==\n", 
+    "height": 66, 
+    "hier_level": 0, 
+    "human_hash": "h3_X1166_Y199_W358_H66", 
+    "human_readable": "h3_1166_199_358_66_h3_ffffffffffffffffffffffffe00fe007f00fe00ff00fffffffffffffffffffff_58d64fd1c48075b5fb82854f764d4eb2", 
+    "image_path": "ZmM4YjFkODQxZDA3ZWMxNDdhMGQzOTYzMjI5NmIwNGQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cart-summary-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h3", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "cart-summary-title", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 22.05, 
+            "height": 66, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "Order Summary", 
+            "type": "", 
+            "value": "", 
+            "width": 358, 
+            "x": 1166, 
+            "xPercent": 61.047120418848166, 
+            "y": 199, 
+            "yPercent": 9.582931533269045
+        }, 
+        "location": {
+            "x": 1166, 
+            "y": 199
+        }, 
+        "size": {
+            "height": 66, 
+            "width": 358
+        }, 
+        "tag_name": "h3", 
+        "text": "Order Summary"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "311c0411b21f320bb13b44139d69cf8a", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "Order Summary", 
+    "transformed": true, 
+    "width": 358, 
+    "x": 1166, 
+    "y": 199
+}

@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "VnXQgywVgKaSFQaO+y8TYg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1197_Y197_W96_H48", 
+    "human_readable": "a_1197_197_96_48_a_00000000000000000000004074c07ffe7ffc7ffc2b5802000000000000000000_98a1a0575562ff318cb9b343436df25d", 
+    "image_path": "YTEzYzQ2NmQ1MjA5MjQwZDRiMGQwMWM0YWY3YmQxNTE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/MCategories+Tactical-Gear", 
+                "data-touchpoint": "home", 
+                "href": "/MCategories+Tactical-Gear", 
+                "id": "Duty-Gear-Top"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "header-menu-level1-anchor", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.05, 
+            "height": 48, 
+            "identifier": "Duty-Gear-Top", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Duty Gear", 
+            "type": "", 
+            "value": "", 
+            "width": 96, 
+            "x": 1197, 
+            "xPercent": 62.666884816753935, 
+            "y": 197, 
+            "yPercent": 5.605413105413105
+        }, 
+        "location": {
+            "x": 1197, 
+            "y": 197
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 96
+        }, 
+        "tag_name": "a", 
+        "text": "Duty Gear"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Duty Gear", 
+    "transformed": true, 
+    "width": 96, 
+    "x": 1197, 
+    "y": 197
+}

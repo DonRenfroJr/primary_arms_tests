@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "UlBxgeFkxMC11FXEBfOuLg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1063_Y197_W127_H48", 
+    "human_readable": "a_1063_197_127_48_a_00000000000000000000000063307ffe7ffe7ffe40d800c00000000000000000_ab060e33f94c64fef6117d3ad6193722", 
+    "image_path": "ZTZlMThiODE5OTNmZTY2YjAzNjA3NDk5OWViOTA1MTU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/MCategories+Shooting-Gear", 
+                "data-touchpoint": "home", 
+                "href": "/MCategories+Shooting-Gear", 
+                "id": "Shooting-Gear-Top"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "header-menu-level1-anchor", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.05, 
+            "height": 48, 
+            "identifier": "Shooting-Gear-Top", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shooting Gear", 
+            "type": "", 
+            "value": "", 
+            "width": 127, 
+            "x": 1063, 
+            "xPercent": 55.67490183246073, 
+            "y": 197, 
+            "yPercent": 5.605413105413105
+        }, 
+        "location": {
+            "x": 1063, 
+            "y": 197
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 127
+        }, 
+        "tag_name": "a", 
+        "text": "Shooting Gear"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shooting Gear", 
+    "transformed": true, 
+    "width": 127, 
+    "x": 1063, 
+    "y": 197
+}

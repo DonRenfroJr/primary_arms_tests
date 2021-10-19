@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Unkqk4dz/KoDbdwvxi0f4A==\n", 
+    "height": 213, 
+    "hier_level": 0, 
+    "human_hash": "img_X503_Y323_W320_H213", 
+    "human_readable": "img_503_323_320_213_img_ffffffffffffffffff8fff0ffe0ffc1ff83ff07fe0ffe1fff3ffffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MjgzMmU5YzFhNTg2YmI5MDI3ZmJjZTYwOTVmOWUwZTg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Streamlight PolyTac X USB Charging LED Flashlight 88613", 
+                "data-loader": "false", 
+                "height": "220", 
+                "itemprop": "image", 
+                "src": "https://images.primaryarms.com/f00000000191638/www.primaryarms.com/SSP Applications/NetSuite Inc. - SCA Mont Blanc/Development/img/88613_00.jpg?resizeid=2&resizeh=0&resizew=555", 
+                "width": "320"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 213, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 320, 
+            "x": 503, 
+            "xPercent": 26.308900523560208, 
+            "y": 323, 
+            "yPercent": 10.740432612312812
+        }, 
+        "location": {
+            "x": 503, 
+            "y": 323
+        }, 
+        "size": {
+            "height": 213, 
+            "width": 320
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0ad3472cb7cba7dee004def9e2a05f6a", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 320, 
+    "x": 503, 
+    "y": 323
+}

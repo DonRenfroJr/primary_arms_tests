@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "zxVLxl4YfOlkwwtDwzJtKg==\n", 
+    "height": 150, 
+    "hier_level": 0, 
+    "human_hash": "img_X670_Y384_W800_H150", 
+    "human_readable": "img_670_384_800_150_img_10000c100c380c000cfe0c609cfefefedafe1aee1efe7cfe58fe601060106000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NTc4MDkwNzlkOTkxNzNlNmQ1YmFjNzkxMTYxNmEwZTI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Featured Brand: Aero Precision", 
+                "id": "MB-Banner-BCG", 
+                "src": "https://3901023.app.netsuite.com/core/media/media.nl?id=15267234&c=3901023&h=v65KwwjnEa2P3cOuTrKufOvfumdgZkYwUqFGnZ6hQS4U1tyN&fcts=20211001125111&whence="
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(36, 36, 36)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 150, 
+            "identifier": "MB-Banner-BCG", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 800, 
+            "x": 670, 
+            "xPercent": 35.07853403141361, 
+            "y": 384, 
+            "yPercent": 8.092576971741881
+        }, 
+        "location": {
+            "x": 670, 
+            "y": 384
+        }, 
+        "size": {
+            "height": 150, 
+            "width": 800
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "07f88f60ba04d703d858ba2b5ddd332a", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 800, 
+    "x": 670, 
+    "y": 384
+}

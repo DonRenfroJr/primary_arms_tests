@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "EtZ5N7hhu/IkPgiVbOjsVQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X700_Y197_W142_H48", 
+    "human_readable": "a_700_197_142_48_a_00000000000000000000000061707ffe7ffe7ffe269200020000000000000000_bb53896b2573387d2d21ecd47a0f41f0", 
+    "image_path": "ZmZhNjU5OTE5N2FlZWNmZTZhNjA1MjNiMTM0MDUxNzY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/Best-For+Conceal-Carry", 
+                "data-touchpoint": "home", 
+                "href": "/Best-For+Conceal-Carry", 
+                "id": "Conceal-Carry"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "header-menu-level1-anchor", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.05, 
+            "height": 48, 
+            "identifier": "Conceal-Carry", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Concealed Carry", 
+            "type": "", 
+            "value": "", 
+            "width": 142, 
+            "x": 700, 
+            "xPercent": 36.65494109947644, 
+            "y": 197, 
+            "yPercent": 5.605413105413105
+        }, 
+        "location": {
+            "x": 700, 
+            "y": 197
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 142
+        }, 
+        "tag_name": "a", 
+        "text": "Concealed Carry"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Concealed Carry", 
+    "transformed": true, 
+    "width": 142, 
+    "x": 700, 
+    "y": 197
+}

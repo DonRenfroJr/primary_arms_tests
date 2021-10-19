@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "9V0SThGPNS9NJPmPZtj1rw==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "button_X1121_Y637_W196_H54", 
+    "human_readable": "button_1121_637_196_54_button_c0038001800180018001000011201ff81ff01ff800008001800180018001c003_4527931d7aab70b03ce225a269b2859c", 
+    "image_path": "ZjdiYjZkZDExOGQ0NDliYmMwMWM3NTY0MDU3M2JmY2I.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cart-add-to-cart-button-button", 
+                "data-action": "sticky", 
+                "data-type": "add-to-cart", 
+                "type": "submit"
+            }, 
+            "background-color": "rgb(22, 80, 169)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "cart-add-to-cart-button-button", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 15, 
+            "height": 54, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Add to Cart", 
+            "type": "submit", 
+            "value": "", 
+            "width": 196, 
+            "x": 1121, 
+            "xPercent": 58.67801047120419, 
+            "y": 637, 
+            "yPercent": 21.189683860232943
+        }, 
+        "location": {
+            "x": 1121, 
+            "y": 637
+        }, 
+        "size": {
+            "height": 54, 
+            "width": 196
+        }, 
+        "tag_name": "button", 
+        "text": "Add to Cart"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0ad3472cb7cba7dee004def9e2a05f6a", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Add to Cart", 
+    "transformed": true, 
+    "width": 196, 
+    "x": 1121, 
+    "y": 637
+}

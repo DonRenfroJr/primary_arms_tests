@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "dbKpUi47pJbBZwKLHGYwjg==\n", 
+    "height": 110, 
+    "hier_level": 0, 
+    "human_hash": "img_X385_Y260_W165_H110", 
+    "human_readable": "img_385_260_165_110_img_ffffffffffffffffff8fff0ffe0ffc1ff83ff07fe0ffe1fff3ffffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZDdlYzY0NjRiYWIxZmQ2ZThlZmRhOGQ4NzU3MjBiMWM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Streamlight PolyTac X USB Charging LED Flashlight 88613", 
+                "src": "https://www.primaryarms.com/SSP Applications/NetSuite Inc. - SCA Mont Blanc/Development/img/88613_00.jpg?resizeid=3&resizeh=280&resizew=320"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(36, 36, 36)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 110, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 165, 
+            "x": 385, 
+            "xPercent": 20.157068062827225, 
+            "y": 260, 
+            "yPercent": 12.524108003857283
+        }, 
+        "location": {
+            "x": 385, 
+            "y": 260
+        }, 
+        "size": {
+            "height": 110, 
+            "width": 165
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "311c0411b21f320bb13b44139d69cf8a", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 165, 
+    "x": 385, 
+    "y": 260
+}

@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "qV2ibsvMCl4I6vSW/OwplA==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X772_Y0_W365_H50", 
+    "human_readable": "a_772_0_365_50_a_ffffffff0000000000000800ffffffffffffffff8b3900000000000000000000_f3f410f3c718cdda348b5d671b8bef06", 
+    "image_path": "ZDAyYzhhMzMyNjM1MzliNDIxMTIyMDkzMjFhNDNiNjQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "deal-shipping-box-message", 
+                "data-hashtag": "#/IsInStock+false?order=onlinecustomerprice:desc", 
+                "data-touchpoint": "home", 
+                "href": "/IsInStock+false?order=onlinecustomerprice:desc"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "deal-shipping-box-message", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 18, 
+            "height": 50, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "12% OFF Sitewide with code: SAVE12", 
+            "type": "", 
+            "value": "", 
+            "width": 365, 
+            "x": 772, 
+            "xPercent": 40.431937172774866, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 772, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 365
+        }, 
+        "tag_name": "a", 
+        "text": "12% OFF Sitewide with code: SAVE12"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "12% OFF Sitewide with code: SAVE12", 
+    "transformed": true, 
+    "width": 365, 
+    "x": 772, 
+    "y": 0
+}

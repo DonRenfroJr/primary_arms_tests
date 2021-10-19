@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "EvrAzY1iSy+12xwtQ/1UEw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X624_Y197_W70_H48", 
+    "human_readable": "a_624_197_70_48_a_00000000000000000000000034483ffc3ffc3ffc000800000000000000000000_ace5c124817c4f5b55081fbca3d3bf11", 
+    "image_path": "ZjU0NDQ4M2E3N2EwMzcyNGYzYThkYWY3YWEwMzcwOWI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/1+Ammunition", 
+                "data-touchpoint": "home", 
+                "href": "/1+Ammunition", 
+                "id": "Ammunition"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "header-menu-level1-anchor", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.05, 
+            "height": 48, 
+            "identifier": "Ammunition", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Ammo", 
+            "type": "", 
+            "value": "", 
+            "width": 70, 
+            "x": 624, 
+            "xPercent": 32.6497054973822, 
+            "y": 197, 
+            "yPercent": 5.605413105413105
+        }, 
+        "location": {
+            "x": 624, 
+            "y": 197
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 70
+        }, 
+        "tag_name": "a", 
+        "text": "Ammo"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Ammo", 
+    "transformed": true, 
+    "width": 70, 
+    "x": 624, 
+    "y": 197
+}

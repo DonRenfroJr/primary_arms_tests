@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "00hLoGSdXIITAhYgCs8HdA==\n", 
+    "height": 42, 
+    "hier_level": 0, 
+    "human_hash": "input_X1000_Y574_W300_H42", 
+    "human_readable": "input_1000_574_300_42_input_0000ffff7ffeffffffffffffffffffffffffffffffffffffffff7ffeffff0000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZDQ5ZjY4YzYwYmVlMjMzNzNiZGYxNzk2NWQ5NjNhMzM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "login-register-checkout-as-guest-input", 
+                "id": "guest-lastname", 
+                "name": "lastname", 
+                "type": "text"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "input", 
+            "color": "rgb(64, 64, 64)", 
+            "cssClass": "login-register-checkout-as-guest-input", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 42, 
+            "identifier": "guest-lastname", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "lastname", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "text", 
+            "value": "", 
+            "width": 300, 
+            "x": 1000, 
+            "xPercent": 52.35602094240838, 
+            "y": 574, 
+            "yPercent": 32.74297632629777
+        }, 
+        "location": {
+            "x": 1000, 
+            "y": 574
+        }, 
+        "size": {
+            "height": 42, 
+            "width": 300
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1fa523eba57f627ce3673bde53cdb78f", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 300, 
+    "x": 1000, 
+    "y": 574
+}

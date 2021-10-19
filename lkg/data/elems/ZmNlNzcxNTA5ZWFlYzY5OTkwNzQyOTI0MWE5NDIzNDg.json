@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "q1rGPR15zG8jxO0VGy6kGg==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "a_X1181_Y361_W328_H62", 
+    "human_readable": "a_1181_361_328_62_a_c00380018001800180010000068007e007e007e007e08001800180018001c003_dc78bb20349b5a7ab9022064d9fbc64d", 
+    "image_path": "ZmNlNzcxNTA5ZWFlYzY5OTkwNzQyOTI0MWE5NDIzNDg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cart-summary-button-proceed-checkout ", 
+                "data-hashtag": "#", 
+                "data-touchpoint": "checkout", 
+                "href": "#", 
+                "id": "btn-proceed-checkout"
+            }, 
+            "background-color": "rgb(45, 110, 209)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "cart-summary-button-proceed-checkout ", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 22.05, 
+            "height": 62, 
+            "identifier": "btn-proceed-checkout", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Checkout", 
+            "type": "", 
+            "value": "", 
+            "width": 328, 
+            "x": 1181, 
+            "xPercent": 61.832460732984295, 
+            "y": 361, 
+            "yPercent": 17.393924783027963
+        }, 
+        "location": {
+            "x": 1181, 
+            "y": 361
+        }, 
+        "size": {
+            "height": 62, 
+            "width": 328
+        }, 
+        "tag_name": "a", 
+        "text": "Checkout"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "311c0411b21f320bb13b44139d69cf8a", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Checkout", 
+    "transformed": true, 
+    "width": 328, 
+    "x": 1181, 
+    "y": 361
+}

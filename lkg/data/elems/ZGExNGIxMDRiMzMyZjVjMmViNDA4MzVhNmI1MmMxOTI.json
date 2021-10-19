@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "4EF0Sx6a3VYoVbtwcz7jsQ==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "a_X1720_Y127_W144_H38", 
+    "human_readable": "a_1720_127_144_38_a_7ffe0000800100000000000079cc7ffe7ffc7f7c7fec00640000800100007ffe_45c0c08b0d5197a637c29ddb4419e858", 
+    "image_path": "ZGExNGIxMDRiMzMyZjVjMmViNDA4MzVhNmI1MmMxOTI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-hashtag": "#/email-sign-up", 
+                "data-touchpoint": "home", 
+                "href": "/email-sign-up"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Email Sign Up", 
+            "type": "", 
+            "value": "", 
+            "width": 144, 
+            "x": 1720, 
+            "xPercent": 90.0523560209424, 
+            "y": 127, 
+            "yPercent": 3.6289173789173788
+        }, 
+        "location": {
+            "x": 1720, 
+            "y": 127
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 144
+        }, 
+        "tag_name": "a", 
+        "text": "Email Sign Up"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Email Sign Up", 
+    "transformed": true, 
+    "width": 144, 
+    "x": 1720, 
+    "y": 127
+}

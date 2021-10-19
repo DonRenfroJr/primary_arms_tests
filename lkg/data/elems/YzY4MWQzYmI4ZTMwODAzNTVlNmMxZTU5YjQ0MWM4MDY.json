@@ -1,0 +1,89 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "select", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "q4XF5t2Fq4AbjM0DHMg2vg==\n", 
+    "height": 44, 
+    "hier_level": 0, 
+    "human_hash": "select_X941_Y277_W228_H44", 
+    "human_readable": "select_941_277_228_44_select_7ffeffffffffffffffffffff2437000380000000ffb3ffffffffffffffff7ffe_598892b5094b54f514a11fc615d9055b", 
+    "image_path": "YzY4MWQzYmI4ZTMwODAzNTVlNmMxZTU5YjQ0MWM4MDY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facets-item-list-show-selector", 
+                "data-type": "navigator"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "select", 
+            "color": "rgb(77, 82, 86)", 
+            "cssClass": "facets-item-list-show-selector", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14.55, 
+            "height": 44, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "select", 
+            "text": "Show 12 products  per page  Show 24 products  per page  Show 48 products  per page  Show 96 products  per page", 
+            "type": "", 
+            "value": "/search?keywords=Backpack", 
+            "values": [
+                "Show 12 products  per page", 
+                "Show 24 products  per page", 
+                "Show 48 products  per page", 
+                "Show 96 products  per page"
+            ], 
+            "valuesText": [
+                "Show 12 products  per page", 
+                "Show 24 products  per page", 
+                "Show 48 products  per page", 
+                "Show 96 products  per page"
+            ], 
+            "width": 228, 
+            "x": 941, 
+            "xPercent": 49.26701570680628, 
+            "y": 277, 
+            "yPercent": 5.836145086461409
+        }, 
+        "location": {
+            "x": 941, 
+            "y": 277
+        }, 
+        "size": {
+            "height": 44, 
+            "width": 228
+        }, 
+        "tag_name": "select", 
+        "text": "Show 12 products  per page  Show 24 products  per page  Show 48 products  per page  Show 96 products  per page"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "07f88f60ba04d703d858ba2b5ddd332a", 
+    "scrollable": false, 
+    "tag_name": "select", 
+    "text": "Show 12 products  per page  Show 24 products  per page  Show 48 products  per page  Show 96 products  per page", 
+    "transformed": true, 
+    "width": 228, 
+    "x": 941, 
+    "y": 277
+}

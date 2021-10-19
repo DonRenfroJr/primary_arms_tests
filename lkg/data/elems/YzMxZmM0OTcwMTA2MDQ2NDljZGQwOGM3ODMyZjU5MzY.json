@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "g1uRSe4A7nU+L0FyRc/yVA==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "a_X1895_Y693_W20_H38", 
+    "human_readable": "a_1895_693_20_38_a_07e00ff8181818180ff00ff001800ff81ff00f8003f807f00e0000180ff80018_6fd438fff18ad0fbb58f123971799063", 
+    "image_path": "YzMxZmM0OTcwMTA2MDQ2NDljZGQwOGM3ODMyZjU5MzY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "#", 
+                "id": "chat-button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 38, 
+            "identifier": "chat-button", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "CHAT", 
+            "type": "", 
+            "value": "", 
+            "width": 20, 
+            "x": 1895, 
+            "xPercent": 98.717041015625, 
+            "y": 693, 
+            "yPercent": 19.754050925925924
+        }, 
+        "location": {
+            "x": 1895, 
+            "y": 693
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 20
+        }, 
+        "tag_name": "a", 
+        "text": "CHAT"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a7154c6479a3dabee7cb7d6dda8a11d1", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "CHAT", 
+    "transformed": true, 
+    "width": 20, 
+    "x": 1895, 
+    "y": 693
+}

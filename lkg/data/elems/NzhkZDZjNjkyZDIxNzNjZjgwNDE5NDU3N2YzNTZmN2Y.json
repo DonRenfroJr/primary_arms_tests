@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ehweT/5GuFLuuYVJiDArJA==\n", 
+    "height": 39, 
+    "hier_level": 0, 
+    "human_hash": "button_X1637_Y127_W50_H39", 
+    "human_readable": "button_1637_127_50_39_button_00000000000400000000030007600fe00ff007f0076000000000000000000000_8f5d66310f820f92e21e97ee1ec2e30c", 
+    "image_path": "NzhkZDZjNjkyZDIxNzNjZjgwNDE5NDU3N2YzNTZmN2Y.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "site-search-button-submit", 
+                "type": "submit"
+            }, 
+            "background-color": "rgb(45, 110, 209)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "site-search-button-submit", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 39, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Go", 
+            "type": "submit", 
+            "value": "", 
+            "width": 50, 
+            "x": 1637, 
+            "xPercent": 85.71007853403141, 
+            "y": 127, 
+            "yPercent": 3.6177884615384617
+        }, 
+        "location": {
+            "x": 1637, 
+            "y": 127
+        }, 
+        "size": {
+            "height": 39, 
+            "width": 50
+        }, 
+        "tag_name": "button", 
+        "text": "Go"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Go", 
+    "transformed": true, 
+    "width": 50, 
+    "x": 1637, 
+    "y": 127
+}

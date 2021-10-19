@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "LV33VCV4oftDjrRAnaUyOw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X850_Y197_W67_H48", 
+    "human_readable": "a_850_197_67_48_a_00000000000000000000000039d03ffc2fec3ffc169804000000000000000000_57dada94d342762547abe8f2b191d23b", 
+    "image_path": "MzQzMTA2OGIxMmM2YWFiYjhhMzgyOGNmYjljYzRmN2Y.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/MCategories+Optics", 
+                "data-touchpoint": "home", 
+                "href": "/MCategories+Optics", 
+                "id": "Optics"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "header-menu-level1-anchor", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.05, 
+            "height": 48, 
+            "identifier": "Optics", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Optics", 
+            "type": "", 
+            "value": "", 
+            "width": 67, 
+            "x": 850, 
+            "xPercent": 44.47725785340314, 
+            "y": 197, 
+            "yPercent": 5.605413105413105
+        }, 
+        "location": {
+            "x": 850, 
+            "y": 197
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 67
+        }, 
+        "tag_name": "a", 
+        "text": "Optics"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Optics", 
+    "transformed": true, 
+    "width": 67, 
+    "x": 850, 
+    "y": 197
+}

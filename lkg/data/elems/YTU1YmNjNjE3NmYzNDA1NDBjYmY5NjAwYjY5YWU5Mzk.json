@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "t8sA0IQkSCEisTKFVX9nOg==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "a_X636_Y88_W95_H20", 
+    "human_readable": "a_636_88_95_20_a_0000000000000000f7bff7bf43d7d7bfd7bf8bff8bdfb79fb43f000000000000_416e6523372d140763735eff0f6d5874", 
+    "image_path": "YTU1YmNjNjE3NmYzNDA1NDBjYmY5NjAwYjY5YWU5Mzk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "tel: 17133449600"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "713-344-9600", 
+            "type": "", 
+            "value": "", 
+            "width": 95, 
+            "x": 636, 
+            "xPercent": 33.2877945026178, 
+            "y": 88, 
+            "yPercent": 2.5178062678062676
+        }, 
+        "location": {
+            "x": 636, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 95
+        }, 
+        "tag_name": "a", 
+        "text": "713-344-9600"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "713-344-9600", 
+    "transformed": true, 
+    "width": 95, 
+    "x": 636, 
+    "y": 88
+}

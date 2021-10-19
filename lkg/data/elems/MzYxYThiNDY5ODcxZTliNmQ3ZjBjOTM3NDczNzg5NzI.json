@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "uLewYML2sJo9D3xmcNZbyw==\n", 
+    "height": 191, 
+    "hier_level": 0, 
+    "human_hash": "img_X891_Y593_W191_H191", 
+    "human_readable": "img_891_593_191_191_img_ffffff3ffc1ff90ff003800380018001800180018001c001e007e03ff9ffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MzYxYThiNDY5ODcxZTliNmQ3ZjBjOTM3NDczNzg5NzI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Bulldog Cases Deluxe Muddy Girl Camo Range Bag - Pink", 
+                "class": "facets-item-cell-grid-image", 
+                "src": "https://images.primaryarms.com/f00000000191638/www.primaryarms.com/SSP Applications/NetSuite Inc. - SCA Mont Blanc/Development/img/BD910MDG_00.jpg?resizeid=3&resizeh=280&resizew=320"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "facets-item-cell-grid-image", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 191, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 191, 
+            "x": 891, 
+            "xPercent": 46.66230366492147, 
+            "y": 593, 
+            "yPercent": 12.507908055672711
+        }, 
+        "location": {
+            "x": 891, 
+            "y": 593
+        }, 
+        "size": {
+            "height": 191, 
+            "width": 191
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "07f88f60ba04d703d858ba2b5ddd332a", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 191, 
+    "x": 891, 
+    "y": 593
+}

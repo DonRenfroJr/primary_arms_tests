@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "1cLRJU7YlIgNKeBofzbKeQ==\n", 
+    "height": 63, 
+    "hier_level": 0, 
+    "human_hash": "a_X30_Y60_W343_H63", 
+    "human_readable": "a_30_60_343_63_a_0000000000000000c000efffeffeefffefdfefffe00300000000000000020000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MDVlNGNlMjk4NTUzNTljNjU0YTk5Njc0OWE4NjMyOTU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-logo", 
+                "data-hashtag": "#", 
+                "data-touchpoint": "home", 
+                "href": "/", 
+                "title": "www.primaryarms.com"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "header-logo", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 63, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 343, 
+            "x": 30, 
+            "xPercent": 1.5706806282722512, 
+            "y": 60, 
+            "yPercent": 1.7094017094017095
+        }, 
+        "location": {
+            "x": 30, 
+            "y": 60
+        }, 
+        "size": {
+            "height": 63, 
+            "width": 343
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 343, 
+    "x": 30, 
+    "y": 60
+}

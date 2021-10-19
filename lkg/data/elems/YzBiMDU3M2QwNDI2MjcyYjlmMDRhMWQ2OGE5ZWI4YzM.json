@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "QDo84wEClscAngD8EcJtcg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "a_X365_Y765_W229_H32", 
+    "human_readable": "a_365_765_229_32_a_ffffffffffffffffffff8fff81ff81ff81ff81ff01ffe7fff7ffffffffffffff_5f24043142a7d99091848507603b2e5f", 
+    "image_path": "YzBiMDU3M2QwNDI2MjcyYjlmMDRhMWQ2OGE5ZWI4YzM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level3-anchor ", 
+                "data-hashtag": "#/2+Handgun-Ammunition/CaliberGauge+44-Magnum", 
+                "data-touchpoint": "home", 
+                "href": "/2+Handgun-Ammunition/CaliberGauge+44-Magnum", 
+                "id": ".44 Magnum"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "header-menu-level3-anchor ", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 32, 
+            "identifier": ".44 Magnum", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": ".44 Magnum", 
+            "type": "", 
+            "value": "", 
+            "width": 229, 
+            "x": 365, 
+            "xPercent": 19.010416666666664, 
+            "y": 765, 
+            "yPercent": 21.78774928774929
+        }, 
+        "location": {
+            "x": 365, 
+            "y": 765
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 229
+        }, 
+        "tag_name": "a", 
+        "text": ".44 Magnum"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "fa725794dc015e87134393de21ef8adb", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": ".44 Magnum", 
+    "transformed": true, 
+    "width": 229, 
+    "x": 365, 
+    "y": 765
+}

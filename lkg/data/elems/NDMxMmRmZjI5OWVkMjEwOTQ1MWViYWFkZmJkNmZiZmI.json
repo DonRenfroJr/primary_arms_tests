@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "wqLINBlTxdBVZZloHsehWw==\n", 
+    "height": 19, 
+    "hier_level": 0, 
+    "human_hash": "a_X1585_Y88_W92_H19", 
+    "human_readable": "a_1585_88_92_19_a_0000000000000000defffefffafdfafffaf7fafffbfdfffffede400040000000_3817ae877e27370e303cf57c2dc7a0f9", 
+    "image_path": "NDMxMmRmZjI5OWVkMjEwOTQ1MWViYWFkZmJkNmZiZmI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "quickorder-accesspoints-headerlink-link", 
+                "data-hashtag": "#cart?openQuickOrder=true", 
+                "data-touchpoint": "home", 
+                "href": "#", 
+                "title": "Quick Order"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "quickorder-accesspoints-headerlink-link", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13.95, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Quick Order", 
+            "type": "", 
+            "value": "", 
+            "width": 92, 
+            "x": 1585, 
+            "xPercent": 82.99410994764398, 
+            "y": 88, 
+            "yPercent": 2.5178062678062676
+        }, 
+        "location": {
+            "x": 1585, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 92
+        }, 
+        "tag_name": "a", 
+        "text": "Quick Order"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Quick Order", 
+    "transformed": true, 
+    "width": 92, 
+    "x": 1585, 
+    "y": 88
+}

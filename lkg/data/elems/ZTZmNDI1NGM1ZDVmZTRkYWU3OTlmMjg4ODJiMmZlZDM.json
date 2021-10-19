@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "S7vcEdO7AAFtAB5K1Mpdjg==\n", 
+    "height": 35, 
+    "hier_level": 0, 
+    "human_hash": "a_X395_Y597_W245_H35", 
+    "human_readable": "a_395_597_245_35_a_000000007fff7fffffffbdff807f807f007f007fe67fff7fffffffffffffffff_5b53ee88a959d237b347d061508b76e5", 
+    "image_path": "ZTZmNDI1NGM1ZDVmZTRkYWU3OTlmMjg4ODJiMmZlZDM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facets-faceted-navigation-item-facet-option ", 
+                "href": "/1+Backpacks--AND--Bags?keywords=Backpack", 
+                "title": "Backpacks & Bags"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(64, 64, 64)", 
+            "cssClass": "facets-faceted-navigation-item-facet-option ", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13.05, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Backpacks & Bags", 
+            "type": "", 
+            "value": "", 
+            "width": 245, 
+            "x": 395, 
+            "xPercent": 20.680628272251308, 
+            "y": 597, 
+            "yPercent": 12.58435259384226
+        }, 
+        "location": {
+            "x": 395, 
+            "y": 597
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 245
+        }, 
+        "tag_name": "a", 
+        "text": "Backpacks & Bags"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "07f88f60ba04d703d858ba2b5ddd332a", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Backpacks & Bags", 
+    "transformed": true, 
+    "width": 245, 
+    "x": 395, 
+    "y": 597
+}

@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ASgnaWBgDy+BxGvdwVe7+w==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "img_X1269_Y84_W39_H30", 
+    "human_readable": "img_1269_84_39_30_img_ffe0fff0fff0f8f8f8f8f8fcf8fef8fffcfef07ee03ce038e038fff0fff0ffe0_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MTIwYzk5MTExYTgxY2VmYzlmNTllZmM4N2Q2NzIxNmU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Login", 
+                "class": "pa-icon user-icon-desktop", 
+                "height": "33", 
+                "src": "https://www.primaryarms.com/sca-dev-2019-2/extensions/Primary Arms/PA_Theme_Black/19.2.0/img/Icons/icon-zocial-persona.svg", 
+                "width": "39"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "pa-icon user-icon-desktop", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13.95, 
+            "height": 30, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 39, 
+            "x": 1269, 
+            "xPercent": 66.43324607329842, 
+            "y": 84, 
+            "yPercent": 2.3949430199430197
+        }, 
+        "location": {
+            "x": 1269, 
+            "y": 84
+        }, 
+        "size": {
+            "height": 30, 
+            "width": 39
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 39, 
+    "x": 1269, 
+    "y": 84
+}

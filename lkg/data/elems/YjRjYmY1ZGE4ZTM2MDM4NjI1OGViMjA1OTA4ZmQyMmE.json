@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "a/0NlzxCp9IfGXduvpRNwg==\n", 
+    "height": 475, 
+    "hier_level": 0, 
+    "human_hash": "img_X1433_Y245_W477_H475", 
+    "human_readable": "img_1433_245_477_475_img_3f00fff8fff8fc00fc00fe00b7002480049087d6c4ef48ff00f900fd40020000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YjRjYmY1ZGE4ZTM2MDM4NjI1OGViMjA1OTA4ZmQyMmE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Featured Brand: VertX", 
+                "id": "featured_brand", 
+                "src": "https://3901023.app.netsuite.com/core/media/media.nl?id=15265111&c=3901023&h=4U8H_TaLoQ86gAGDW-VgMo4AKfRuNOjBlLNIbZ46MvInizMN&fcts=20211001002739&whence="
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(36, 36, 36)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 475, 
+            "identifier": "featured_brand", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 477, 
+            "x": 1433, 
+            "xPercent": 75, 
+            "y": 245, 
+            "yPercent": 6.972934472934473
+        }, 
+        "location": {
+            "x": 1433, 
+            "y": 245
+        }, 
+        "size": {
+            "height": 475, 
+            "width": 477
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 477, 
+    "x": 1433, 
+    "y": 245
+}

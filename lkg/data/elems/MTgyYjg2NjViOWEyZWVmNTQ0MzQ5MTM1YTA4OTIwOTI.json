@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ZJIoBjTCJjvXiRX438ntFA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1452_Y197_W109_H48", 
+    "human_readable": "a_1452_197_109_48_a_0000000000000000000000007ffe7ffe7ff67ffe380c00000000000000000000_51ec467a82a08599a92547a276db8503", 
+    "image_path": "MTgyYjg2NjViOWEyZWVmNTQ0MzQ5MTM1YTA4OTIwOTI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/AdName+Clearance", 
+                "data-touchpoint": "home", 
+                "href": "/AdName+Clearance", 
+                "id": "Sale"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 96, 96)", 
+            "cssClass": "header-menu-level1-anchor", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.05, 
+            "height": 48, 
+            "identifier": "Sale", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "CLEARANCE", 
+            "type": "", 
+            "value": "", 
+            "width": 109, 
+            "x": 1452, 
+            "xPercent": 76.00376308900523, 
+            "y": 197, 
+            "yPercent": 5.605413105413105
+        }, 
+        "location": {
+            "x": 1452, 
+            "y": 197
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 109
+        }, 
+        "tag_name": "a", 
+        "text": "CLEARANCE"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "CLEARANCE", 
+    "transformed": true, 
+    "width": 109, 
+    "x": 1452, 
+    "y": 197
+}

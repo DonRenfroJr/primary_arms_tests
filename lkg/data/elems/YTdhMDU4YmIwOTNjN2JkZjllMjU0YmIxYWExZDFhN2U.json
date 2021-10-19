@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "HayXyjRTZqqwC+IaQe52PA==\n", 
+    "height": 33, 
+    "hier_level": 0, 
+    "human_hash": "a_X120_Y255_W244_H33", 
+    "human_readable": "a_120_255_244_33_a_ffffffffffffffffffff13ff807f807f807f007f007f9fff9fffffffffffffff_611d8a6fbb7873e812acb9cd70864c52", 
+    "image_path": "YTdhMDU4YmIwOTNjN2JkZjllMjU0YmIxYWExZDFhN2U.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "column-menu-heading-link header-menu-level3-anchor", 
+                "data-hashtag": "#/MCategories+Lights-AND-Lasers", 
+                "data-touchpoint": "home", 
+                "href": "/MCategories+Lights-AND-Lasers", 
+                "id": "Lights-and-Lasers-Top"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "column-menu-heading-link header-menu-level3-anchor", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 16, 
+            "height": 33, 
+            "identifier": "Lights-and-Lasers-Top", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Lights & Lasers", 
+            "type": "", 
+            "value": "", 
+            "width": 244, 
+            "x": 120, 
+            "xPercent": 6.25, 
+            "y": 255, 
+            "yPercent": 7.2578347578347575
+        }, 
+        "location": {
+            "x": 120, 
+            "y": 255
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 244
+        }, 
+        "tag_name": "a", 
+        "text": "Lights & Lasers"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a7154c6479a3dabee7cb7d6dda8a11d1", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Lights & Lasers", 
+    "transformed": true, 
+    "width": 244, 
+    "x": 120, 
+    "y": 255
+}

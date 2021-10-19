@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "avMjKR0C7u8+GYzH9OGAGg==\n", 
+    "height": 35, 
+    "hier_level": 0, 
+    "human_hash": "a_X395_Y667_W245_H35", 
+    "human_readable": "a_395_667_245_35_a_ffffffffffff7fff7fff87ff803f803f003f003fccbffcffffffffffffffffff_3c1895e1640bef6bb5d699737695615c", 
+    "image_path": "ODk1YTIzMzdkYzhmNjdjYTViNzNiZWY5NzBlMWUzZDk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facets-faceted-navigation-item-facet-option ", 
+                "href": "/1+Rails--AND--Handguards?keywords=Backpack", 
+                "title": "Rails & Handguards"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(64, 64, 64)", 
+            "cssClass": "facets-faceted-navigation-item-facet-option ", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13.05, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Rails & Handguards", 
+            "type": "", 
+            "value": "", 
+            "width": 245, 
+            "x": 395, 
+            "xPercent": 20.680628272251308, 
+            "y": 667, 
+            "yPercent": 14.060522986081821
+        }, 
+        "location": {
+            "x": 395, 
+            "y": 667
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 245
+        }, 
+        "tag_name": "a", 
+        "text": "Rails & Handguards"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "07f88f60ba04d703d858ba2b5ddd332a", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Rails & Handguards", 
+    "transformed": true, 
+    "width": 245, 
+    "x": 395, 
+    "y": 667
+}

@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "UkdoMauM0XeDhC9mtyX0JA==\n", 
+    "height": 31, 
+    "hier_level": 0, 
+    "human_hash": "a_X1269_Y83_W82_H31", 
+    "human_readable": "a_1269_83_82_31_a_f800fc00fc00fc00cc00ce6ece16ef1fff17cfffce08c600cc00fc00fc00f800_6fee144e1a5aa0579a225f99252f6f97", 
+    "image_path": "NDlmMTNiMTg2YzcxOTBiMzI4Nzk5OWI0MDE4YWY4OTY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-profile-login-link", 
+                "data-hashtag": "login-register", 
+                "data-touchpoint": "login", 
+                "href": "#"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "header-profile-login-link", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13.95, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Login", 
+            "type": "", 
+            "value": "", 
+            "width": 82, 
+            "x": 1269, 
+            "xPercent": 66.43324607329842, 
+            "y": 83, 
+            "yPercent": 2.357995014245014
+        }, 
+        "location": {
+            "x": 1269, 
+            "y": 83
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 82
+        }, 
+        "tag_name": "a", 
+        "text": "Login"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Login", 
+    "transformed": true, 
+    "width": 82, 
+    "x": 1269, 
+    "y": 83
+}

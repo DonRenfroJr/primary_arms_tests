@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "33RvLtL9IHwlnYLu+e3cqw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "button_X1000_Y766_W244_H56", 
+    "human_readable": "button_1000_766_244_56_button_c0038001800180018001000022d03ffc3ffc1ffc00008001800180018001c003_d138029efc88e8e01c66952c5a3fad4c", 
+    "image_path": "YTJmMTYxMDZjYTVlOWZlMmU1YWI5M2EwNTg0YjQzN2M.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "login-register-checkout-as-guest-submit", 
+                "type": "submit"
+            }, 
+            "background-color": "rgb(36, 36, 36)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "login-register-checkout-as-guest-submit", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.005, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Proceed to Checkout", 
+            "type": "submit", 
+            "value": "", 
+            "width": 244, 
+            "x": 1000, 
+            "xPercent": 52.35602094240838, 
+            "y": 766, 
+            "yPercent": 43.69562892184826
+        }, 
+        "location": {
+            "x": 1000, 
+            "y": 766
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 244
+        }, 
+        "tag_name": "button", 
+        "text": "Proceed to Checkout"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1fa523eba57f627ce3673bde53cdb78f", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Proceed to Checkout", 
+    "transformed": true, 
+    "width": 244, 
+    "x": 1000, 
+    "y": 766
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "aoSy5i/ONBQCPMWBOWrM9g==\n", 
+    "height": 31, 
+    "hier_level": 0, 
+    "human_hash": "h1_X670_Y438_W855_H31", 
+    "human_readable": "h1_670_438_855_31_h1_ffffffffffff003f003f003f003f003f003f003f003f003f003fffffffffffff_19f4a8c5fe77712f4a3716f88b280c7b", 
+    "image_path": "ZGM5Zjc1NDBlN2RkNDNlNzE5YjNlODc0YmMyOWVmY2Q.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facets-empty-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "facets-empty-title", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 25.95, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Sorry, we couldn't find any products.", 
+            "type": "", 
+            "value": "", 
+            "width": 855, 
+            "x": 670, 
+            "xPercent": 35.07853403141361, 
+            "y": 438, 
+            "yPercent": 30.80577058409571
+        }, 
+        "location": {
+            "x": 670, 
+            "y": 438
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 855
+        }, 
+        "tag_name": "h1", 
+        "text": "Sorry, we couldn't find any products."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b7d166c20d69c81e9f36c26d3a1c259f", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Sorry, we couldn't find any products.", 
+    "transformed": true, 
+    "width": 855, 
+    "x": 670, 
+    "y": 438
+}

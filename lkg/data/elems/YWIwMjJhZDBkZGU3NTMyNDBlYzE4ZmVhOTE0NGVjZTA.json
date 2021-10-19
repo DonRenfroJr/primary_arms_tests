@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "s+4ON5o77rWXnfQEmuqVyw==\n", 
+    "height": 41, 
+    "hier_level": 0, 
+    "human_hash": "a_X385_Y753_W255_H41", 
+    "human_readable": "a_385_753_255_41_a_00000000000000000000fe00ff03ff03ff03ff00fe0000000000000000000000_a2c937c9572dc146abbafcf2027ce8cf", 
+    "image_path": "YWIwMjJhZDBkZGU3NTMyNDBlYzE4ZmVhOTE0NGVjZTA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facets-faceted-navigation-item-facet-group-expander collapsed", 
+                "data-target": "#facetList_9998-wrapper", 
+                "data-toggle": "collapse", 
+                "data-type": "collapse", 
+                "href": "#", 
+                "title": "Sub Category"
+            }, 
+            "background-color": "rgb(36, 36, 36)", 
+            "class": "a", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "facets-faceted-navigation-item-facet-group-expander collapsed", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 41, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Sub Category", 
+            "type": "", 
+            "value": "", 
+            "width": 255, 
+            "x": 385, 
+            "xPercent": 20.157068062827225, 
+            "y": 753, 
+            "yPercent": 15.874103753690427
+        }, 
+        "location": {
+            "x": 385, 
+            "y": 753
+        }, 
+        "size": {
+            "height": 41, 
+            "width": 255
+        }, 
+        "tag_name": "a", 
+        "text": "Sub Category"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "07f88f60ba04d703d858ba2b5ddd332a", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Sub Category", 
+    "transformed": true, 
+    "width": 255, 
+    "x": 385, 
+    "y": 753
+}

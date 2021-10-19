@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "EpWK8eb/QB5fMnrerGBOzg==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "a_X1369_Y83_W62_H30", 
+    "human_readable": "a_1369_83_62_30_a_00000000000000000000f7ffedbbffbffffffffbf7ef00000000000000000000_85e0dc5f7d876ec2cc63c862375e05c8", 
+    "image_path": "YjQ3YzU5YjgzMDUyODc4YjgzMjgwZjAzNDAyYjQxNzc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-profile-register-link", 
+                "data-hashtag": "login-register", 
+                "data-touchpoint": "register", 
+                "href": "#"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "header-profile-register-link", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13.95, 
+            "height": 30, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Register", 
+            "type": "", 
+            "value": "", 
+            "width": 62, 
+            "x": 1369, 
+            "xPercent": 71.69666230366492, 
+            "y": 83, 
+            "yPercent": 2.3753561253561255
+        }, 
+        "location": {
+            "x": 1369, 
+            "y": 83
+        }, 
+        "size": {
+            "height": 30, 
+            "width": 62
+        }, 
+        "tag_name": "a", 
+        "text": "Register"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Register", 
+    "transformed": true, 
+    "width": 62, 
+    "x": 1369, 
+    "y": 83
+}

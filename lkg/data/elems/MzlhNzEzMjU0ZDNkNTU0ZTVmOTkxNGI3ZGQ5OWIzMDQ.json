@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "0IbvfC8A6kbHNh3p9yXk/g==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1388_Y197_W56_H48", 
+    "human_readable": "a_1388_197_56_48_a_0000000000000000000008081bd81bd80fd81ff8187800000000000000000000_b35af38e097176771153e9cd14001091", 
+    "image_path": "MzlhNzEzMjU0ZDNkNTU0ZTVmOTkxNGI3ZGQ5OWIzMDQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/AdName+Sale", 
+                "data-touchpoint": "home", 
+                "href": "/AdName+Sale", 
+                "id": "Sale"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 96, 96)", 
+            "cssClass": "header-menu-level1-anchor", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16.05, 
+            "height": 48, 
+            "identifier": "Sale", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "SALE", 
+            "type": "", 
+            "value": "", 
+            "width": 56, 
+            "x": 1388, 
+            "xPercent": 72.69306282722513, 
+            "y": 197, 
+            "yPercent": 5.605413105413105
+        }, 
+        "location": {
+            "x": 1388, 
+            "y": 197
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 56
+        }, 
+        "tag_name": "a", 
+        "text": "SALE"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "SALE", 
+    "transformed": true, 
+    "width": 56, 
+    "x": 1388, 
+    "y": 197
+}

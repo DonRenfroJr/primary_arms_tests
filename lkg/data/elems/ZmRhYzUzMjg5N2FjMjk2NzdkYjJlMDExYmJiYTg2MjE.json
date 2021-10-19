@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "lNKqjGUbKlNWSNyGN55bzw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "a_X365_Y357_W229_H32", 
+    "human_readable": "a_365_357_229_32_a_ffffffffffffffffffffa9ff007f007f007f807f807ffcfffcffffffffffffff_af26c609ad0fee7a863253817d9efb28", 
+    "image_path": "ZmRhYzUzMjg5N2FjMjk2NzdkYjJlMDExYmJiYTg2MjE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level3-anchor ", 
+                "data-hashtag": "#/1+Handheld-Lights/MCategories+Lights-AND-Lasers", 
+                "data-touchpoint": "home", 
+                "href": "/1+Handheld-Lights/MCategories+Lights-AND-Lasers", 
+                "id": "Handheld Lights"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "header-menu-level3-anchor ", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 32, 
+            "identifier": "Handheld Lights", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Handheld Lights", 
+            "type": "", 
+            "value": "", 
+            "width": 229, 
+            "x": 365, 
+            "xPercent": 19.010416666666664, 
+            "y": 357, 
+            "yPercent": 10.163817663817664
+        }, 
+        "location": {
+            "x": 365, 
+            "y": 357
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 229
+        }, 
+        "tag_name": "a", 
+        "text": "Handheld Lights"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a7154c6479a3dabee7cb7d6dda8a11d1", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Handheld Lights", 
+    "transformed": true, 
+    "width": 229, 
+    "x": 365, 
+    "y": 357
+}

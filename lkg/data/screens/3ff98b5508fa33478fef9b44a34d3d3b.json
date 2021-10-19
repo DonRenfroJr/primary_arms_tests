@@ -1,0 +1,250 @@
+{
+    "action_info": {
+        "elem_class": "screen", 
+        "elem_info": {
+            "class": "screen", 
+            "hash": "kWr84Jad8eBreHR8BZSlxA==\n", 
+            "height": 931, 
+            "hier_level": 0, 
+            "human_hash": "screen_X0_Y0_W1920_H931", 
+            "index": -1, 
+            "is_transformed": true, 
+            "tag_name": "screen", 
+            "text": "", 
+            "width": 1920, 
+            "x": 0, 
+            "y": 0
+        }, 
+        "gesture": "no_op", 
+        "text": "no_op"
+    }, 
+    "all_elems": [
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "I9f5pQZhbnHbmGUHeKZxjg==\n", 
+            "height": 95, 
+            "hier_level": 0, 
+            "human_hash": "div_X0_Y372_W1910_H95", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "loading-icon-container"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "loading-icon-container", 
+                    "domLevel": 3, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 15, 
+                    "height": 95, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1910, 
+                    "x": 0, 
+                    "xPercent": 0, 
+                    "y": 372, 
+                    "yPercent": 9.745894399371892
+                }, 
+                "location": {
+                    "x": 0, 
+                    "y": 372
+                }, 
+                "size": {
+                    "height": 95, 
+                    "width": 1910
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 1910, 
+            "x": 0, 
+            "y": 372
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "xLpz7kxYGuqmLboHRyZo4Q==\n", 
+            "height": 95, 
+            "hier_level": 0, 
+            "human_hash": "div_X900_Y372_W110_H95", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "cssload-speeding-wheel"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "cssload-speeding-wheel", 
+                    "domLevel": 4, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 15, 
+                    "height": 95, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 110, 
+                    "x": 900, 
+                    "xPercent": 47.12041884816754, 
+                    "y": 372, 
+                    "yPercent": 9.745894399371892
+                }, 
+                "location": {
+                    "x": 900, 
+                    "y": 372
+                }, 
+                "size": {
+                    "height": 95, 
+                    "width": 110
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 110, 
+            "x": 900, 
+            "y": 372
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "eWRrbq00m83w1EZwYceXBg==\n", 
+            "height": 931, 
+            "hier_level": 0, 
+            "human_hash": "div_X0_Y0_W1910_H931", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "cssload-container", 
+                        "id": "customloadingIndicator", 
+                        "style": ""
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "cssload-container", 
+                    "domLevel": 2, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 15, 
+                    "height": 931, 
+                    "identifier": "customloadingIndicator", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1910, 
+                    "x": 0, 
+                    "xPercent": 0, 
+                    "y": 0, 
+                    "yPercent": 0
+                }, 
+                "location": {
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "size": {
+                    "height": 931, 
+                    "width": 1910
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 1910, 
+            "x": 0, 
+            "y": 0
+        }
+    ], 
+    "cpu": 0, 
+    "jank": 0, 
+    "mem": 0, 
+    "net": 0, 
+    "processed": true, 
+    "timing": 0
+}

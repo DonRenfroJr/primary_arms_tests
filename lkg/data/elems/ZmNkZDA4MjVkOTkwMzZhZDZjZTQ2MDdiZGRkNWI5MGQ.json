@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "WRD+S3ZZAGAK6qr46Ekslw==\n", 
+    "height": 41, 
+    "hier_level": 0, 
+    "human_hash": "a_X385_Y464_W255_H41", 
+    "human_readable": "a_385_464_255_41_a_ffffffffffffffffffff1fff1ffc1ffc1ffc1ffc1fffffffffffffffffffffff_030911dad5cf7d45766d062f328e7d49", 
+    "image_path": "ZmNkZDA4MjVkOTkwMzZhZDZjZTQ2MDdiZGRkNWI5MGQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facets-faceted-navigation-item-facet-group-expander ", 
+                "data-target": "#facetList_9994-wrapper", 
+                "data-toggle": "collapse", 
+                "data-type": "collapse", 
+                "href": "#", 
+                "title": "Sale"
+            }, 
+            "background-color": "rgb(214, 214, 214)", 
+            "class": "a", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "facets-faceted-navigation-item-facet-group-expander ", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 41, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Sale", 
+            "type": "", 
+            "value": "", 
+            "width": 255, 
+            "x": 385, 
+            "xPercent": 20.157068062827225, 
+            "y": 464, 
+            "yPercent": 9.779628848587093
+        }, 
+        "location": {
+            "x": 385, 
+            "y": 464
+        }, 
+        "size": {
+            "height": 41, 
+            "width": 255
+        }, 
+        "tag_name": "a", 
+        "text": "Sale"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "07f88f60ba04d703d858ba2b5ddd332a", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Sale", 
+    "transformed": true, 
+    "width": 255, 
+    "x": 385, 
+    "y": 464
+}

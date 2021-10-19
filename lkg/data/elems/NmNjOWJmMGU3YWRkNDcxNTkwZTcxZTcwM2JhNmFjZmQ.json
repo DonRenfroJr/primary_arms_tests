@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "gZn/CN0Yu4nLmh6MGHd8dg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1113_Y658_W191_H48", 
+    "human_readable": "a_1113_658_191_48_a_ffffffff7e94000000000000fbbfffffffffffffedfb000800000008ff9fffff_6c34d939bf3a84c3cf87744dd667e258", 
+    "image_path": "NmNjOWJmMGU3YWRkNDcxNTkwZTcxZTcwM2JhNmFjZmQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facets-item-cell-grid-title", 
+                "href": "/streamlight-polytac-x-usb-charging-led-flashlight-88613"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "facets-item-cell-grid-title", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Streamlight PolyTac X USB Handheld Flashlight - Black", 
+            "type": "", 
+            "value": "", 
+            "width": 191, 
+            "x": 1113, 
+            "xPercent": 58.24607329842932, 
+            "y": 658, 
+            "yPercent": 14.126932989690722
+        }, 
+        "location": {
+            "x": 1113, 
+            "y": 658
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 191
+        }, 
+        "tag_name": "a", 
+        "text": "Streamlight PolyTac X USB Handheld Flashlight - Black"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "9db62382702466a51b5b695a8f04739a", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Streamlight PolyTac X USB Handheld Flashlight - Black", 
+    "transformed": true, 
+    "width": 191, 
+    "x": 1113, 
+    "y": 658
+}

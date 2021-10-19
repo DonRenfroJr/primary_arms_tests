@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "tTtG1qhHZhaP4uy7/K5dhw==\n", 
+    "height": 106, 
+    "hier_level": 0, 
+    "human_hash": "img_X0_Y726_W954_H106", 
+    "human_readable": "img_0_726_954_106_img_00000000000000000000fcfefcfefcfee40000f87cfc3cfc1ce8840014001400_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YmQ2MmEyMDFlNDM2NGE2NDg1OTFmODI1MjMzNzg2NDk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "align": "center", 
+                "alt": "", 
+                "id": "subbannerA", 
+                "src": "https://3901023.app.netsuite.com/core/media/media.nl?id=14878650&c=3901023&h=_0Bpzak6sD1pkmf28cxi_4KM0C9SJbw9VQfu93vZ0cjSCVWj", 
+                "style": "display:block;", 
+                "width": "100%"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(36, 36, 36)", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 106, 
+            "identifier": "subbannerA", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 954, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 726, 
+            "yPercent": 20.68643162393162
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 726
+        }, 
+        "size": {
+            "height": 106, 
+            "width": 954
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 954, 
+    "x": 0, 
+    "y": 726
+}

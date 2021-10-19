@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "VohPU6s5Ct5lXO5CLOjxGg==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "a_X433_Y88_W165_H20", 
+    "human_readable": "a_433_88_165_20_a_000000000000000050001000fffffffffffbffffffffffffffff100000800080_243db17f70b5f5d6c3ef1ae1fcc62b77", 
+    "image_path": "N2VhMzc5YzM0M2JkNGI5NDdiNDY5ZWYyYzY4ODc3ZmY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "mailto:info@primaryarms.com"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "info@primaryarms.com", 
+            "type": "", 
+            "value": "", 
+            "width": 165, 
+            "x": 433, 
+            "xPercent": 22.670157068062828, 
+            "y": 88, 
+            "yPercent": 2.5178062678062676
+        }, 
+        "location": {
+            "x": 433, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 165
+        }, 
+        "tag_name": "a", 
+        "text": "info@primaryarms.com"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2ed3218504f1a951174b0000c2013b6c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "info@primaryarms.com", 
+    "transformed": true, 
+    "width": 165, 
+    "x": 433, 
+    "y": 88
+}
