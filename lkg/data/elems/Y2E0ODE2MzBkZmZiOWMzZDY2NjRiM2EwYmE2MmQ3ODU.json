@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Hp9xBH7UU7q5yD5I/gWYIQ==\n", 
+    "height": 481, 
+    "hier_level": 0, 
+    "human_hash": "a_X1433_Y245_W477_H481", 
+    "human_readable": "a_1433_245_477_481_a_3f00fff8fff8fc00fc00fe00b7002490049087f644ff00fd00f9007d40030700_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "Y2E0ODE2MzBkZmZiOWMzZDY2NjRiM2EwYmE2MmQ3ODU.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.primaryarms.com/Brand+Vertx"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(36, 36, 36)", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 481, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 477, 
+            "x": 1433, 
+            "xPercent": 75, 
+            "y": 245, 
+            "yPercent": 6.972934472934473
+        }, 
+        "location": {
+            "x": 1433, 
+            "y": 245
+        }, 
+        "size": {
+            "height": 481, 
+            "width": 477
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5827a8909d06b25f4472d371cd150346", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 477, 
+    "x": 1433, 
+    "y": 245
+}

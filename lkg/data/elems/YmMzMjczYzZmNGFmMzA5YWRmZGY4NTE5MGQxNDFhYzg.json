@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "nXlh0031Hvdjdi7lQzL8Vw==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X15_Y439_W46_H50", 
+    "human_readable": "a_15_439_46_50_a_0001000100030001006100e103c0078006000700038001e000e00006400ccc30_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YmMzMjczYzZmNGFmMzA5YWRmZGY4NTE5MGQxNDFhYzg.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "home-gallery-prev-icon"
+            }, 
+            "background-color": "rgb(128, 128, 128)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "home-gallery-prev-icon", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "FontAwesome", 
+            "font-weight": "400", 
+            "fontSize": 50, 
+            "height": 50, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 46, 
+            "x": 15, 
+            "xPercent": 0.7853403141361256, 
+            "y": 439, 
+            "yPercent": 12.49732905982906
+        }, 
+        "location": {
+            "x": 15, 
+            "y": 439
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 46
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5827a8909d06b25f4472d371cd150346", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 46, 
+    "x": 15, 
+    "y": 439
+}
