@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BO5WiKhtHh2KolDUDHHBjA==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "img_X1735_Y87_W26_H24", 
+    "human_readable": "img_1735_87_26_24_img_3fffc7ffc003c000c000e000e000e001e007e1ffe7fff7fff001fffff7f3f7f3_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "OTVhZDhmNDhiZDRmNjgzZTVjMjFlODAxNTM0NTAyYjU.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Register", 
+                "class": "pa-icon visible-xs-block shopping-cart-icon", 
+                "height": "26", 
+                "src": "https://www.primaryarms.com/sca-dev-2019-2/extensions/Primary Arms/PA_Theme_Black/19.2.0/img/Icons/icon-ionic-ios-cart.svg", 
+                "width": "26"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "pa-icon visible-xs-block shopping-cart-icon", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13.95, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 26, 
+            "x": 1735, 
+            "xPercent": 90.83769633507853, 
+            "y": 87, 
+            "yPercent": 2.4888710826210825
+        }, 
+        "location": {
+            "x": 1735, 
+            "y": 87
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 26
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c69db13de8e92048d19db2570780ece7", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 26, 
+    "x": 1735, 
+    "y": 87
+}
