@@ -1,0 +1,62 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "rHkz4kmjgHP7VsO+W+mFmA==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "a_X1668_Y240_W484_H56", 
+    "human_readable": "a_1668_240_484_56_a_00000000000000000000efa0fff2bfc7ffefffffffdfffdfffe0efe000000000_7e54f356f6b71e8fa0f8eb98428f5ac4", 
+    "image_path": "NGRlZDBhZWRiNDkyMjFiN2NhZmU1NzRjODAyMzMxNmY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/MCategories+New-Arrivals"
+            }, 
+            "backend_node_id": 3449, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "height": 28.0, 
+            "key": "834.0_120.0_242.0_28.0_New Arrivals   See All", 
+            "tagName": "a", 
+            "text": "New Arrivals   See All", 
+            "width": 242.0, 
+            "x": 834.0, 
+            "y": 120.0
+        }, 
+        "location": {
+            "x": 834.0, 
+            "y": 120.0
+        }, 
+        "size": {
+            "height": 28.0, 
+            "width": 242.0
+        }, 
+        "tag_name": "a", 
+        "text": "New Arrivals   See All"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "49fe57e06c67c733bfc3af7a3146e94d", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "New Arrivals   See All", 
+    "transformed": true, 
+    "width": 484, 
+    "x": 1668, 
+    "y": 240
+}

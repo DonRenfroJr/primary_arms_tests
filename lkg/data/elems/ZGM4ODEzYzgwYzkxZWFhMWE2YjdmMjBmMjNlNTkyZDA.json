@@ -1,0 +1,65 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "zV052EtutSKDZGK9NB4ZNw==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "a_X1766_Y1130_W280_H80", 
+    "human_readable": "a_1766_1130_280_80_a_c0038001800180018001000019901ff81ff81ff80df88001800180018001c003_a96e4f844ab9df295d4c2c71a698179f", 
+    "image_path": "ZGM4ODEzYzgwYzkxZWFhMWE2YjdmMjBmMjNlNTkyZDA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "item-relations-related-view-more-button", 
+                "data-hashtag": "/holosun-aems-circle-dot-red-dot-sight", 
+                "data-touchpoint": "home", 
+                "href": "/holosun-aems-circle-dot-red-dot-sight"
+            }, 
+            "backend_node_id": 3747, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "height": 40.0, 
+            "key": "883.0_565.0_140.0_40.0_View Details", 
+            "tagName": "a", 
+            "text": "View Details", 
+            "width": 140.0, 
+            "x": 883.0, 
+            "y": 565.0
+        }, 
+        "location": {
+            "x": 883.0, 
+            "y": 565.0
+        }, 
+        "size": {
+            "height": 40.0, 
+            "width": 140.0
+        }, 
+        "tag_name": "a", 
+        "text": "View Details"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "49fe57e06c67c733bfc3af7a3146e94d", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "View Details", 
+    "transformed": true, 
+    "width": 280, 
+    "x": 1766, 
+    "y": 1130
+}
