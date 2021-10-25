@@ -1,0 +1,65 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "lCd9VOYqxHHUiLk7wqcrzg==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "a_X1848_Y394_W264_H96", 
+    "human_readable": "a_1848_394_264_96_a_0000000000000000000000007dc07ffe7ffe7ffe347810000000000000000000_611d8a6fbb7873e812acb9cd70864c52", 
+    "image_path": "NDc2YjZmYmI4ZGQyODhiYWU5NjY2YmVmMTQ2YWFiYWU.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/MCategories+Lights-AND-Lasers", 
+                "data-touchpoint": "home", 
+                "href": "/MCategories+Lights-AND-Lasers", 
+                "id": "Lights-and-Lasers-Top"
+            }, 
+            "backend_node_id": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "height": 48.0, 
+            "key": "924.0_197.0_132.0_48.0_Lights & Lasers", 
+            "tagName": "a", 
+            "text": "Lights & Lasers", 
+            "width": 132.0, 
+            "x": 924.0, 
+            "y": 197.0
+        }, 
+        "location": {
+            "x": 924.0, 
+            "y": 197.0
+        }, 
+        "size": {
+            "height": 48.0, 
+            "width": 132.0
+        }, 
+        "tag_name": "a", 
+        "text": "Lights & Lasers"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e41a606c82bf9042889e8981978ac321", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Lights & Lasers", 
+    "transformed": true, 
+    "width": 264, 
+    "x": 1848, 
+    "y": 394
+}

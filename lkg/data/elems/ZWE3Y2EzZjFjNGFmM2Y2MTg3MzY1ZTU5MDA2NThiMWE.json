@@ -1,0 +1,67 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "lgtQpfilvgFcGYMc2K+Vhg==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "a_X3440_Y162_W290_H72", 
+    "human_readable": "a_3440_162_290_72_a_ffffffffbfff9fffc7ffc5ffc40fc40fcc0fdc07c52fc7ffd7ffffffffffffff_01568abeccb2f8fe04fa62222f46619b", 
+    "image_path": "ZWE3Y2EzZjFjNGFmM2Y2MTg3MzY1ZTU5MDA2NThiMWE.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-mini-cart-menu-cart-link ", 
+                "data-hashtag": "#cart", 
+                "data-toggle": "dropdown", 
+                "data-touchpoint": "home", 
+                "data-type": "mini-cart", 
+                "href": "#", 
+                "title": "Cart"
+            }, 
+            "backend_node_id": 427, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "height": 36.0, 
+            "key": "1720.0_81.0_145.0_36.0_0 items", 
+            "tagName": "a", 
+            "text": "0 items", 
+            "width": 145.0, 
+            "x": 1720.0, 
+            "y": 81.0
+        }, 
+        "location": {
+            "x": 1720.0, 
+            "y": 81.0
+        }, 
+        "size": {
+            "height": 36.0, 
+            "width": 145.0
+        }, 
+        "tag_name": "a", 
+        "text": "0 items"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e41a606c82bf9042889e8981978ac321", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "0 items", 
+    "transformed": true, 
+    "width": 290, 
+    "x": 3440, 
+    "y": 162
+}
