@@ -1,0 +1,65 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "kWuSENshaDyhmne6yI05cA==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "a_X2904_Y394_W218_H96", 
+    "human_readable": "a_2904_394_218_96_a_0000000000000000000000007ffe7ffe7ff67ffe380c00000000000000000000_51ec467a82a08599a92547a276db8503", 
+    "image_path": "ZjI2N2Y2YzY1YzdiZmFmZTdmOGUyZGZiNzhkNWI4Mzk.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-menu-level1-anchor", 
+                "data-hashtag": "#/AdName+Clearance", 
+                "data-touchpoint": "home", 
+                "href": "/AdName+Clearance", 
+                "id": "Sale"
+            }, 
+            "backend_node_id": 28, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "height": 48.0, 
+            "key": "1452.0_197.0_109.0_48.0_CLEARANCE", 
+            "tagName": "a", 
+            "text": "CLEARANCE", 
+            "width": 109.0, 
+            "x": 1452.0, 
+            "y": 197.0
+        }, 
+        "location": {
+            "x": 1452.0, 
+            "y": 197.0
+        }, 
+        "size": {
+            "height": 48.0, 
+            "width": 109.0
+        }, 
+        "tag_name": "a", 
+        "text": "CLEARANCE"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e41a606c82bf9042889e8981978ac321", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "CLEARANCE", 
+    "transformed": true, 
+    "width": 218, 
+    "x": 2904, 
+    "y": 394
+}
