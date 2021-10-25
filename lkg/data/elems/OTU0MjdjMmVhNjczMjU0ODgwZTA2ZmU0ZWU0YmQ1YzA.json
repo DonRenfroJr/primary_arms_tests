@@ -1,0 +1,61 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "le7C5z5Y5/BGH6EoCsj41w==\n", 
+    "height": 100, 
+    "hier_level": 0, 
+    "human_hash": "a_X30_Y878_W92_H100", 
+    "human_readable": "a_30_878_92_100_a_018f0fef1fff3fbb7fef7ffd7fdfffbfff7f7ffe7bfe7dfe3eec1ff80ff00180_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "OTU0MjdjMmVhNjczMjU0ODgwZTA2ZmU0ZWU0YmQ1YzA.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "home-gallery-prev-icon"
+            }, 
+            "backend_node_id": 87, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "height": 50.0, 
+            "key": "15.0_439.0_46.0_50.0_", 
+            "tagName": "a", 
+            "text": "", 
+            "width": 46.0, 
+            "x": 15.0, 
+            "y": 439.0
+        }, 
+        "location": {
+            "x": 15.0, 
+            "y": 439.0
+        }, 
+        "size": {
+            "height": 50.0, 
+            "width": 46.0
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e41a606c82bf9042889e8981978ac321", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 92, 
+    "x": 30, 
+    "y": 878
+}

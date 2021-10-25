@@ -1,0 +1,64 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "cWcFZHx4W27Gtm9XwxNyzQ==\n", 
+    "height": 100, 
+    "hier_level": 0, 
+    "human_hash": "a_X1744_Y0_W334_H100", 
+    "human_readable": "a_1744_0_334_100_a_ffffffffffffffff000004c9ffffffffffefffff1ccb00000000000000000000_4274c20a1a68af964c828be819f02efa", 
+    "image_path": "MGRmYjZmYTVlMmQzZWE4NTYzOTgwMWZhNjA3YTg4MzU.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "deal-shipping-box-message", 
+                "data-hashtag": "#/AdName+Sale", 
+                "data-touchpoint": "home", 
+                "href": "/AdName+Sale"
+            }, 
+            "backend_node_id": 38, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "height": 50.0, 
+            "key": "872.0_0.0_167.0_50.0_Halloween Sale", 
+            "tagName": "a", 
+            "text": "Halloween Sale", 
+            "width": 167.0, 
+            "x": 872.0, 
+            "y": 0.0
+        }, 
+        "location": {
+            "x": 872.0, 
+            "y": 0.0
+        }, 
+        "size": {
+            "height": 50.0, 
+            "width": 167.0
+        }, 
+        "tag_name": "a", 
+        "text": "Halloween Sale"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e41a606c82bf9042889e8981978ac321", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Halloween Sale", 
+    "transformed": true, 
+    "width": 334, 
+    "x": 1744, 
+    "y": 0
+}

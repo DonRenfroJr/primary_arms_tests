@@ -1,0 +1,63 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "eelnV0CyAY2J2LSSetyBxA==\n", 
+    "height": 76, 
+    "hier_level": 0, 
+    "human_hash": "a_X3440_Y254_W288_H76", 
+    "human_readable": "a_3440_254_288_76_a_7ffe0000800100000000000079cc7ffe7ffc7f7e7bec00600000800100007ffe_45c0c08b0d5197a637c29ddb4419e858", 
+    "image_path": "ZDgwNjg4OTUwMGM2MGNhMjY0N2E5YjliZmZkY2E4NmI.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-hashtag": "#/email-sign-up", 
+                "data-touchpoint": "home", 
+                "href": "/email-sign-up"
+            }, 
+            "backend_node_id": 36, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "height": 38.0, 
+            "key": "1720.0_127.0_144.0_38.0_Email Sign Up", 
+            "tagName": "a", 
+            "text": "Email Sign Up", 
+            "width": 144.0, 
+            "x": 1720.0, 
+            "y": 127.0
+        }, 
+        "location": {
+            "x": 1720.0, 
+            "y": 127.0
+        }, 
+        "size": {
+            "height": 38.0, 
+            "width": 144.0
+        }, 
+        "tag_name": "a", 
+        "text": "Email Sign Up"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e41a606c82bf9042889e8981978ac321", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Email Sign Up", 
+    "transformed": true, 
+    "width": 288, 
+    "x": 3440, 
+    "y": 254
+}
