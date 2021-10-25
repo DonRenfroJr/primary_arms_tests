@@ -1,0 +1,65 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "H/QNPBxeKV8HaFNZvmUegw==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "a_X2496_Y1130_W280_H80", 
+    "human_readable": "a_2496_1130_280_80_a_c0038001800180018001000019901ff81ff81ff80df88001800180018001c003_a96e4f844ab9df295d4c2c71a698179f", 
+    "image_path": "YTIxZWZjM2QzYWY1NmQyYzA0OGViNGI1ODgzNWRkM2U.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "item-relations-related-view-more-button", 
+                "data-hashtag": "/surefire-xc2-compact-ir-weapon-light-and-laser-universal-mount", 
+                "data-touchpoint": "home", 
+                "href": "/surefire-xc2-compact-ir-weapon-light-and-laser-universal-mount"
+            }, 
+            "backend_node_id": 3848, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "height": 40.0, 
+            "key": "1248.0_565.0_140.0_40.0_View Details", 
+            "tagName": "a", 
+            "text": "View Details", 
+            "width": 140.0, 
+            "x": 1248.0, 
+            "y": 565.0
+        }, 
+        "location": {
+            "x": 1248.0, 
+            "y": 565.0
+        }, 
+        "size": {
+            "height": 40.0, 
+            "width": 140.0
+        }, 
+        "tag_name": "a", 
+        "text": "View Details"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "49fe57e06c67c733bfc3af7a3146e94d", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "View Details", 
+    "transformed": true, 
+    "width": 280, 
+    "x": 2496, 
+    "y": 1130
+}
