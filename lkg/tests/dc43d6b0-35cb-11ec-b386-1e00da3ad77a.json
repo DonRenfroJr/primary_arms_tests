@@ -1,50 +1,49 @@
 {
-    "Nick Practice": {
+    "git practice Don": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "Nick Practice", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Wait 120 seconds", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "no_op", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "scroll down", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Click on btn", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_back_carousel"
+                    "btn_holosun_box_sight"
                 ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_down", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_down", 
-                "label_count": null, 
-                "labels": [], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
                 "widget": "default"
             }
         ], 
         "tags": [], 
-        "temp_id": "a8553f2e-35bc-11ec-957e-1e00d1224092", 
-        "title": "Nick Practice"
+        "temp_id": "dc43d6b0-35cb-11ec-b386-1e00da3ad77a", 
+        "title": "git practice Don"
     }
 }

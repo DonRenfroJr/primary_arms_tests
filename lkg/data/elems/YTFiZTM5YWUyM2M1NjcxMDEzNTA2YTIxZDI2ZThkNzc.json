@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "B/K1zkzrecZzOuzz1CuhIQ==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "a_X781_Y434_W148_H20", 
+    "human_readable": "a_781_434_148_20_a_0000000000000000860486047fff7bff7bff7bfffbfefffffbff010001000000_5178bff98c0b0acc656970b383022023", 
+    "image_path": "YTFiZTM5YWUyM2M1NjcxMDEzNTA2YTIxZDI2ZThkNzc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pa-footer-navigation-link", 
+                "data-hashtag": "#/career-opportunities", 
+                "data-touchpoint": "home", 
+                "href": "/career-opportunities"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(214, 214, 214)", 
+            "cssClass": "pa-footer-navigation-link", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Career Opportunities", 
+            "type": "", 
+            "value": "", 
+            "width": 148, 
+            "x": 781, 
+            "xPercent": 40.899869109947645, 
+            "y": 434, 
+            "yPercent": 12.544255780346822
+        }, 
+        "location": {
+            "x": 781, 
+            "y": 434
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 148
+        }, 
+        "tag_name": "a", 
+        "text": "Career Opportunities"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e82cf858a69fba81626baa451c3adc07", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Career Opportunities", 
+    "transformed": true, 
+    "width": 148, 
+    "x": 781, 
+    "y": 434
+}

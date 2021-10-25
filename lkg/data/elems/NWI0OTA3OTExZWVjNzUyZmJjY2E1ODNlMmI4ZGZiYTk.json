@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "0HnITePOyY4pZOKH13Bq3Q==\n", 
+    "height": 150, 
+    "hier_level": 0, 
+    "human_hash": "a_X786_Y750_W333_H150", 
+    "human_readable": "a_786_750_333_150_a_fffffcfff83ff81ff81ff81ff81ff81ff81ff81ffc1ffc1ffc3ffc7ffe7fffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NWI0OTA3OTExZWVjNzUyZmJjY2E1ODNlMmI4ZGZiYTk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "item-relations-related-item-thumbnail", 
+                "data-hashtag": "/holosun-aems-circle-dot-red-dot-sight", 
+                "data-touchpoint": "home", 
+                "href": "/holosun-aems-circle-dot-red-dot-sight"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(36, 36, 36)", 
+            "cssClass": "item-relations-related-item-thumbnail", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 150, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 333, 
+            "x": 786, 
+            "xPercent": 41.15183246073298, 
+            "y": 750, 
+            "yPercent": 21.663656069364162
+        }, 
+        "location": {
+            "x": 786, 
+            "y": 750
+        }, 
+        "size": {
+            "height": 150, 
+            "width": 333
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "96f86eae3fa1a18be094ebf534cb04e7", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 333, 
+    "x": 786, 
+    "y": 750
+}

@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "k9UzM8s0RtQmmapXIWwu1Q==\n", 
+    "height": 44, 
+    "hier_level": 0, 
+    "human_hash": "a_X781_Y696_W126_H44", 
+    "human_readable": "a_781_696_126_44_a_00008800ffebffffffffffff00000000000000008000f800f800f800f8000000_f39effc4bacc0c50e6cfc15c23bd31d0", 
+    "image_path": "MWIwMmU2ZjU1ZWQzZWJlMzQxNjY2NjMzYjgzMDgzMWQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pa-footer-navigation-link", 
+                "data-hashtag": "#/email-me-when-in-stock-instructions", 
+                "data-touchpoint": "home", 
+                "href": "/email-me-when-in-stock-instructions"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(214, 214, 214)", 
+            "cssClass": "pa-footer-navigation-link", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 44, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Email Me When In Stock", 
+            "type": "", 
+            "value": "", 
+            "width": 126, 
+            "x": 781, 
+            "xPercent": 40.899869109947645, 
+            "y": 696, 
+            "yPercent": 20.116510115606935
+        }, 
+        "location": {
+            "x": 781, 
+            "y": 696
+        }, 
+        "size": {
+            "height": 44, 
+            "width": 126
+        }, 
+        "tag_name": "a", 
+        "text": "Email Me When In Stock"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e82cf858a69fba81626baa451c3adc07", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Email Me When In Stock", 
+    "transformed": true, 
+    "width": 126, 
+    "x": 781, 
+    "y": 696
+}
